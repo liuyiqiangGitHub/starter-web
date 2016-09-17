@@ -10,5 +10,9 @@ As stated above, the main purpose is to provide simple examples for Git trining 
 ##Deployment
 This a sample web project, deploment can be on any web server or even local file system.
 
+##How To Contribute
+
+Plase fork this repository and then issue Pull Requests for review.
+
 ###Copyright
 2016 Git.Training
